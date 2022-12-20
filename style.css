@@ -1,0 +1,155 @@
+body {
+  padding:0px; 
+  margin:0; 
+  background: #d3d3d3;
+  font-size:25px; 
+  font-family: 'Jost', sans-serif;
+}
+#otstyp{
+  margin-left: 665px;
+}
+#basic {
+  width:960px; 
+  min-height:950px; 
+  margin:0 auto; 
+  padding:20px 20px 20px 20px; 
+  background:#fff;
+}
+.bg-1{
+  margin-left: 540px;
+}
+#fl{
+  border:0;
+  height: 20px;
+  margin-top: 22px;
+  margin-left: 50px;
+}
+#fl2{
+  color: #fff;
+  border:0;
+  height: 20px;
+  margin-top: -22px;
+  margin-left: -10px;
+}
+#tg {
+  border:0;
+  height: 20px;
+  margin-top: 22px;
+  margin-left: -60px;
+}
+#fb{
+  border:0;
+  height: 20px;
+  margin-top: 22px;
+  margin-left: -10px;
+}
+a {
+  color:#ffffff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a:hover {
+  text-decoration:none;
+}
+#top-menu {
+  width:960px; 
+  height:74px; 
+  list-style-type: none;
+}
+.bg-1 ul li {
+  float:left; 
+  padding:0 20px 0 0;
+  list-style-type: none;
+}
+.ogo2{
+  margin-left: 50px;
+}
+.ogo3{
+  margin-left: 1120px;
+  margin-top: -150px;
+}
+.ogo4{
+  margin-left: 100px;
+}
+.bg-1 ul li a {
+  display:block; 
+  height:40px; 
+  padding:24px 27px 0 27px; 
+  color:#000000; 
+  text-decoration:none; 
+  text-transform:uppercase;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.right{
+  color: rgb(0, 0, 0);
+  margin-top: -600px;
+  margin-left: 60px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#o_cebe{
+height: 500px;
+  margin-top: 100px;
+  margin-left: 1200px;
+}
+.left{
+  margin-top: 80px;
+  font-size: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #ededed;
+}
+.ogo{
+  background-color: #ededed;
+  margin-left: 100px;
+}
+.me{
+  width: 600px;
+  margin-left: 1100px;
+  margin-top: -150px;
+  padding: 20px;
+}
+.services_item{
+  margin-left: 100px;
+  margin-right: 200px;
+  width: 240px;
+  float: left;
+}
+#ab{
+margin: top 200px;
+}
+.call{
+margin-top: -300px;
+margin-left: 770px;
+}
+input[type="text"] {
+  text-align: center;
+  width: 300px;
+  height: 80px;
+  margin: 15px;
+  font-size: 20px;
+}
+input[type="button"]{
+  text-align: center;
+  width: 300px;
+  height: 80px;
+  margin: 20px;
+  font-size: 20px;
+}
+.city{
+  margin-left: 150px;
+  margin-top: -1900px;
+}
+footer {
+  color: #000000;
+  margin-left: 00px;
+  margin-bottom: -25px;
+  background-color: #ededed;
+}
+.footer{
+  display: block;
+}
+.site1{
+  margin-top: 700px;
+  margin-left: 100px;
+}
+.p22{
+  margin-left: 840px;
+}
